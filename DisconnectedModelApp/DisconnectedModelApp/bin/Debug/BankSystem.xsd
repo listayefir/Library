@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="BankSystem" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="BankSystem" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Debitors">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:Caption="Debitor's ID" type="xs:string" />
+              <xs:element name="Name" msdata:Caption="Debitor's phone number" type="xs:string" minOccurs="0" />
+              <xs:element name="PostIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="PhoneNumber" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Credits">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:Caption="Credit ID" type="xs:string" />
+              <xs:element name="DebitorID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:Caption="Debitor's ID" type="xs:string" />
+              <xs:element name="Amount" msdata:Caption="Credit amount" type="xs:int" />
+              <xs:element name="Balance" msdata:Caption="Credit balance" type="xs:decimal" />
+              <xs:element name="OpenDate" msdata:Caption="Credit open date" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Payments">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:Caption="Payment ID" type="xs:string" />
+              <xs:element name="CreditID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msdata:Caption="Credit ID" type="xs:string" />
+              <xs:element name="Payment" msdata:Caption="Payment amount" type="xs:decimal" />
+              <xs:element name="PaymentDate" msdata:Caption="Payment date" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//Debitors" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+    <xs:unique name="Credits_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Credits" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//Credits" />
+      <xs:field xpath="DebitorID" />
+    </xs:unique>
+    <xs:unique name="Payments_Constraint1" msdata:ConstraintName="Constraint1">
+      <xs:selector xpath=".//Payments" />
+      <xs:field xpath="ID" />
+    </xs:unique>
+    <xs:unique name="Payments_Constraint2" msdata:ConstraintName="Constraint2">
+      <xs:selector xpath=".//Payments" />
+      <xs:field xpath="CreditID" />
+    </xs:unique>
+    <xs:keyref name="Credit-Payment" refer="Credits_Constraint1">
+      <xs:selector xpath=".//Payments" />
+      <xs:field xpath="CreditID" />
+    </xs:keyref>
+    <xs:keyref name="Debitor-Credit" refer="Constraint1">
+      <xs:selector xpath=".//Credits" />
+      <xs:field xpath="DebitorID" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

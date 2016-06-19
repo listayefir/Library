@@ -1,0 +1,9 @@
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\bin\Debug\Library.exe
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\bin\Debug\Library.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.exe
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.Form1.resources

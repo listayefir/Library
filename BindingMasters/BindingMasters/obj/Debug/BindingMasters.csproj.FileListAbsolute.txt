@@ -1,0 +1,9 @@
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\bin\Debug\BindingMasters.exe.config
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\bin\Debug\BindingMasters.exe
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\bin\Debug\BindingMasters.pdb
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.BankSystem.resources
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.Properties.Resources.resources
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.csproj.GenerateResource.Cache
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.exe
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.pdb
+C:\Users\Alice\Desktop\HelloWorld\BindingMasters\BindingMasters\obj\Debug\BindingMasters.csprojResolveAssemblyReference.cache

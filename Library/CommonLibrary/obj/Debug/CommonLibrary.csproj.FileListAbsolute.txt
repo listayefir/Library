@@ -1,0 +1,5 @@
+C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\bin\Debug\CommonLibrary.dll.config

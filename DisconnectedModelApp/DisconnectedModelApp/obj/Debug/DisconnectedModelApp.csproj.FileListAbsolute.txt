@@ -1,0 +1,9 @@
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\bin\Debug\DisconnectedModelApp.exe.config
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\bin\Debug\DisconnectedModelApp.exe
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\bin\Debug\DisconnectedModelApp.pdb
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.Properties.Resources.resources
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.csproj.GenerateResource.Cache
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.exe
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.pdb
+C:\Users\Alice\Desktop\HelloWorld\DisconnectedModelApp\DisconnectedModelApp\obj\Debug\DisconnectedModelApp.Form1.resources

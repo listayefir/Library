@@ -1,0 +1,7 @@
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\bin\Debug\Provider.dll
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\bin\Debug\Provider.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\bin\Debug\CommonLibrary.dll
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\bin\Debug\CommonLibrary.pdb
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\obj\Debug\Provider.csprojResolveAssemblyReference.cache
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\obj\Debug\Provider.dll
+C:\Users\Alice\Desktop\HelloWorld\Library\Provider\obj\Debug\Provider.pdb

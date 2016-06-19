@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<BankSystem>
+  <Debitors>
+    <ID>267c7bd0-6cfc-406f-ac14-3ba1559bd8de</ID>
+    <Name>Alice</Name>
+    <PostIndex>91293</PostIndex>
+  </Debitors>
+  <Debitors>
+    <ID>cdba8b69-c37e-4f20-be8b-b8318baecbf9</ID>
+    <Name>Vasya</Name>
+    <PostIndex>65464</PostIndex>
+    <PhoneNumber>4654123</PhoneNumber>
+  </Debitors>
+  <Debitors>
+    <ID>2aa3175f-56f4-480e-a439-0cecca52c2a3</ID>
+    <Name>Vova</Name>
+    <PostIndex>54593</PostIndex>
+    <PhoneNumber>654621</PhoneNumber>
+  </Debitors>
+  <Debitors>
+    <ID>5cab5443-405f-4ea4-b9e7-0f1467c1854f</ID>
+    <Name>Masha</Name>
+    <PostIndex>54293</PostIndex>
+    <PhoneNumber>6456</PhoneNumber>
+  </Debitors>
+</BankSystem>
