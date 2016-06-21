@@ -66,9 +66,17 @@ namespace Provider
 
             
             }
-            for (int i = 0; i < libraryDataAdapters.Length; i++)
+            try
             {
-                libraryDataAdapters[i].Fill(libraryTables[i]);
+                for (int i = 0; i < libraryDataAdapters.Length; i++)
+                {
+                    libraryDataAdapters[i].Fill(libraryTables[i]);
+                }
+            }
+            catch 
+            {
+
+                this.libraryDataSet = null;
             }
 
             return libraryDataSet;

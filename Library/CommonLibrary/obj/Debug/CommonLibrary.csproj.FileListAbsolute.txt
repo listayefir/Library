@@ -3,3 +3,9 @@ C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\bin\Debug\CommonLibrary.
 C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\obj\Debug\CommonLibrary.dll
 C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\obj\Debug\CommonLibrary.pdb
 C:\Users\Alice\Desktop\HelloWorld\Library\CommonLibrary\bin\Debug\CommonLibrary.dll.config
+D:\Alice's job\Proj\Library\Library\CommonLibrary\bin\Debug\CommonLibrary.dll.config
+D:\Alice's job\Proj\Library\Library\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Alice's job\Proj\Library\Library\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Alice's job\Proj\Library\Library\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+D:\Alice's job\Proj\Library\Library\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Alice's job\Proj\Library\Library\CommonLibrary\obj\Debug\CommonLibrary.pdb

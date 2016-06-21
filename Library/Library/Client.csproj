@@ -96,6 +96,10 @@
       <Project>{1e02b119-579b-473f-ad95-b41316074cf7}</Project>
       <Name>CommonLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{02e26283-42b1-4804-9e34-d0fa25b2c67a}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

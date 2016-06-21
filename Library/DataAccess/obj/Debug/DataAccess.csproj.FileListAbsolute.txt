@@ -7,3 +7,12 @@ C:\Users\Alice\Desktop\HelloWorld\Library\DataAccess\bin\Debug\CommonLibrary.pdb
 C:\Users\Alice\Desktop\HelloWorld\Library\DataAccess\bin\Debug\Provider.pdb
 C:\Users\Alice\Desktop\HelloWorld\Library\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Alice\Desktop\HelloWorld\Library\DataAccess\obj\Debug\DataAccess.pdb
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\DataAccess.dll
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\DataAccess.pdb
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\CommonLibrary.dll
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\Provider.dll
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\CommonLibrary.pdb
+D:\Alice's job\Proj\Library\Library\DataAccess\bin\Debug\Provider.pdb
+D:\Alice's job\Proj\Library\Library\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Alice's job\Proj\Library\Library\DataAccess\obj\Debug\DataAccess.dll
+D:\Alice's job\Proj\Library\Library\DataAccess\obj\Debug\DataAccess.pdb

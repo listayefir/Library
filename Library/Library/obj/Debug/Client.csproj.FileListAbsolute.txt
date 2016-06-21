@@ -10,3 +10,19 @@ C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Client.csprojResolve
 C:\Users\Alice\Desktop\HelloWorld\Library\Library\obj\Debug\Library.LogIn.resources
 C:\Users\Alice\Desktop\HelloWorld\Library\Library\bin\Debug\CommonLibrary.dll
 C:\Users\Alice\Desktop\HelloWorld\Library\Library\bin\Debug\CommonLibrary.pdb
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\Library.exe.config
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Library.exe
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Library.pdb
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\Library.exe
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\Library.pdb
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\CommonLibrary.dll
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\CommonLibrary.pdb
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Library.Client.resources
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Library.LogIn.resources
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Alice's job\Proj\Library\Library\Library\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\DataAccess.dll
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\Provider.dll
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\DataAccess.pdb
+D:\Alice's job\Proj\Library\Library\Library\bin\Debug\Provider.pdb
